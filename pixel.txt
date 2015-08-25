@@ -1,0 +1,24 @@
+page 1 pixel
+
+"<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: sessionID_page1
+URL of the webpage where the tag is expected to be placed: http://testing.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 08/25/2015
+-->
+<img src=""https://ad.doubleclick.net/ddm/activity/src=4421625;type=count371;cat=sessi0;u1=[pagename];u3=[useragent];ord=[SessionID]?"" width=""1"" height=""1"" alt=""""/>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->"
+
+
+page 2 pixel
+
+"<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: sessionID_page2
+URL of the webpage where the tag is expected to be placed: http://testing.com
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 08/25/2015
+-->
+<img src=""https://ad.doubleclick.net/ddm/activity/src=4421625;type=count371;cat=sessi00;u1=[pagename];u3=[useragent];ord=[SessionID]?"" width=""1"" height=""1"" alt=""""/>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->"
